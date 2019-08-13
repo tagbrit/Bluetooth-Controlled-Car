@@ -3,7 +3,7 @@
 Tekbot Arduino Code
 
 Arduino code to control tekbot in default bump bot behavior
-Mimics functionality of analog control board
+Added Bluetooth Control
 **********************************************************************************
 */
 #include <Adafruit_NeoPixel.h>
